@@ -1,2 +1,2 @@
 # webVR-
-A-Frame webVR created by using HTML5 and CSS for Beginners just to have minimum glance.
+A-Frame webVR is designed to knew the technological changes in the coming days amd have ideas about VIRTUAL REALITY.
